@@ -18,8 +18,6 @@ The energy of the system decreases as more Monte Carlo sweeps are taken.
 
 The magnetisation in the x and y directions are plotted repectively against the number of sweeps, and the value of correlation function is plotted against number of sweeps.
 
-![XY mag](https://github.com/user-attachments/assets/7d92a16c-0838-425f-b32f-302e9bee432c) 
-![XY correlation](https://github.com/user-attachments/assets/49b0961a-4a3d-4b8f-8636-78e084c51f16)
 
 
 
